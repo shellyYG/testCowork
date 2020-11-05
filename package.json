@@ -1,8 +1,8 @@
 {
-  "name": "testCowork",
+  "name": "testcowork",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "appShelly.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/shellyYG/testCowork/issues"
   },
-  "homepage": "https://github.com/shellyYG/testCowork#readme"
+  "homepage": "https://github.com/shellyYG/testCowork#readme",
+  "keywords": []
 }
